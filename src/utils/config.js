@@ -2,9 +2,9 @@ const apiPrefix = 'api';
 const domin = 'http://localhost:2333';
 
 module.exports = {
-  name: '随手快递',
-  prefix: 'express',
-  footerText: '随手快递  © 2017',
+  name: 'Admin',
+  prefix: 'Admin',
+  footerText: 'Admin  © 2017',
   logo: '/logo.png',
   iconFontCSS: '/iconfont.css',
   iconFontJS: '/iconfont.js',
