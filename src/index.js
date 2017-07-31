@@ -26,4 +26,4 @@ app.model(require('./models/app'))
 app.router(require('./router'));
 
 // 5. Start
-app.start(document.querySelector('div'));
+app.start(document.getElementById('root'));
