@@ -1,5 +1,5 @@
 # react-antd
-基于 react+redux+antd+webpack+es6 构建的后台管理模板
+基于 [react](https://github.com/facebook/react)+[dva](https://github.com/dvajs/dva)+[antd](https://github.com/ant-design/ant-design)+[webpack](https://github.com/webpack/webpack)+ES6 构建的后台管理模板
 
 ## 说明
 
