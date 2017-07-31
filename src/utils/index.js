@@ -41,6 +41,7 @@ Date.prototype.format = function (format) {
 
 
 /**
+ * 从URL获取值
  * @param   {String}
  * @return  {String}
  */
